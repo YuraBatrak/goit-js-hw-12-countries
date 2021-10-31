@@ -19,7 +19,7 @@
  "bugs": {
   "url": "https://github.com/YuraBatrak/goit-js-hw-12-countries/issues"
  },
- "homepage": "https://YuraBatrak/github.io/goit-js-hw-12-countries",
+ "homepage": "https://YuraBatrak.github.io/goit-js-hw-12-countries",
  "dependencies": {
   "gh-pages": "^3.2.3",
   "handlebars": "^4.7.7",
